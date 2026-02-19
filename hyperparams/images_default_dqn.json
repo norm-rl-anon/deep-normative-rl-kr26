@@ -1,0 +1,15 @@
+{
+  "buffer_size": 100000,
+  "policy_kwargs": {
+    "features_extractor_kwargs": {
+      "disc_feature_index": 0,
+      "features_dims": [
+        64, 64
+      ],
+      "greyscale": true,
+      "image_stack_size": 2
+    },
+    "net_arch": [
+    ]
+  }
+}

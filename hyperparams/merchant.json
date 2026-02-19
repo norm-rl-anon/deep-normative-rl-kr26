@@ -1,0 +1,7 @@
+{
+    "learning_rate": 0.416193354930925,
+    "gamma": 0.8457800076761134,
+    "exploration_fraction": 0.15648685888099156,
+    "exploration_initial_eps": 1.0,
+    "exploration_final_eps": 0.20591766708990236
+}
